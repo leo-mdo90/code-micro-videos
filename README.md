@@ -24,17 +24,16 @@ http://localhost:8000
 
 Nosso aluno [Yuri Koster](https://github.com/yurikoster1) criou outra opção do repositório organizando melhor os arquivos Docker, se quiserem utilizar basta clonar o branch ```more_organized```.
 
-
 ## Entregas
 
 Entrega 1: Criando recurso Category
 
-````
+```
 branch develop
-````
+```
 
 Entrega 2: Testes de integração em categorias e gêneros
 
-````
+```
 branch feature/entrega-2
-````
+```
